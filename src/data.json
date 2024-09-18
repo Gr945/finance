@@ -1,0 +1,102 @@
+[
+    {
+        "rowId": 1,
+        "barCode": 22265990,
+        "item": "Одежда",
+        "art": "Кардиган",
+        "size": "50-60",
+        "available": 0,
+        "products": 40,
+        "allProducts": 30
+    },
+    {
+        "rowId": 2,
+        "barCode": 55555368,
+        "item": "Одежда",
+        "art": "Брюки",
+        "size": "40-60",
+        "available": 0,
+        "products": 20,
+        "allProducts": 60
+    },
+    {
+        "rowId": 3,
+        "barCode": 114545,
+        "item": "Одежда",
+        "art": "Рубашка",
+        "size": "38-52",
+        "available": 4,
+        "products": 10,
+        "allProducts": 90
+    },
+    {
+        "rowId": 4,
+        "barCode": 11756847,
+        "item": "Одежда",
+        "art": "Рубашка",
+        "size": "38-52",
+        "available": 2,
+        "products": 10,
+        "allProducts": 40
+    },
+    {
+        "rowId": 5,
+        "barCode": 11133467,
+        "item": "Одежда",
+        "art": "Штаны",
+        "size": "52-58",
+        "available": 4,
+        "products": 30,
+        "allProducts": 80
+    },
+    {
+        "rowId": 6,
+        "barCode": 189081,
+        "item": "Одежда",
+        "art": "Рубашка",
+        "size": "40-52",
+        "available": 3,
+        "products": 40,
+        "allProducts": 40
+    },
+    {
+        "rowId": 7,
+        "barCode": 1345451,
+        "item": "Одежда",
+        "art": "Рубашка",
+        "size": "40-52",
+        "available": 4,
+        "products": 100,
+        "allProducts": 40
+    },
+    {
+        "rowId": 8,
+        "barCode": 97655411,
+        "item": "Одежда",
+        "art": "Рубашка",
+        "size": "44-56",
+        "available": 14,
+        "products": 60,
+        "allProducts": 60
+    },
+    {
+        "rowId": 9,
+        "barCode": 67889911,
+        "item": "Одежда",
+        "art": "Рубашка",
+        "size": "38-52",
+        "available": 7,
+        "products": 10,
+        "allProducts": 350
+    },
+    {
+        "rowId": 10,
+        "barCode": 345567811,
+        "item": "Одежда",
+        "art": "Штаны",
+        "size": "32-52",
+        "available": 30,
+        "products": 170,
+        "allProducts": 10
+    }
+]
